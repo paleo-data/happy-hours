@@ -2,7 +2,7 @@
 name: Happy hour
 about: Use this issue template to plan for hosting a PDWG happy hour
 title: "[replace this text with the happy hour topic]"
-labels: happy hour
+labels: PDWG
 assignees: ''
 
 ---
