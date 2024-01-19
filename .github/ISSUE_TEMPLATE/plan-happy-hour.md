@@ -1,14 +1,14 @@
 ---
 name: Plan a happy hour
 about: Use this issue template to plan for hosting a scheduled PDWG happy hour
-title: "[replace this text with the happy hour topic]"
-labels: PDWG
+title: "[replace this text with the date and topic, formatted 'YYYY-MM_DD Topic']"
+labels: PDWG, scheduled
 assignees: ''
 
 ---
-
-- - -
 ## Checklist for hosting a PDWG Happy Hour 
+
+**Is this happy hour related to any [topic idea issues](https://github.com/paleo-data/happy-hours/labels/idea)?** If so, please link to issue(s) here:
 
 ### A month or more in advance
 - [ ] Determine topic (i.e. title of this issue)
@@ -39,3 +39,4 @@ assignees: ''
 - [ ] Update the topic on our [GitHub website here](https://github.com/paleo-data/paleo-data.github.io/blob/main/happy-hours.md) by adding a link to the recording and by moving the topic down into the relevant section, e.g. from “2024 – Upcoming” to “2024 – Past”
 - [ ] On the shared notes Google Doc, change the _Sharing_ setting to “Anyone on the internet with the link can view” to better protect the document from unintentional editing in the future
 - [ ] Coordinate any followup from the Happy Hour as necessary, e.g. making progress on group action items, or thanking guest speakers
+- [ ] Close this issue
