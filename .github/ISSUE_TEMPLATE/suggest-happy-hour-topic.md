@@ -2,7 +2,7 @@
 name: Suggest a happy hour topic
 about: Use this issue template to suggest a happy hour topic
 title: "[replace this text with the topic]"
-labels: PDWG
+labels: PDWG, idea
 assignees: ''
 
 ---
