@@ -1,6 +1,6 @@
 ---
-name: Happy hour
-about: Use this issue template to plan for hosting a PDWG happy hour
+name: Plan a happy hour
+about: Use this issue template to plan for hosting a scheduled PDWG happy hour
 title: "[replace this text with the happy hour topic]"
 labels: PDWG
 assignees: ''
