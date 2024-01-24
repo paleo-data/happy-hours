@@ -6,8 +6,6 @@ labels: PDWG, idea
 assignees: ''
 
 ---
-
-- - -
 ## What is your idea for a happy hour topic?
 _[add text here - be as specific or vague as you like]_
 
