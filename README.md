@@ -1,5 +1,5 @@
 # Welcome to the repository for planning PDWG Happy Hours!
-The purpose of this space is to provide PDWG with a transparent way to keep track of topic ideas, and to schedule and plan happy hour events.
+The purpose of this space is to provide the Paleo Data Working Group (PDWG) with a transparent way to keep track of topic ideas, and to schedule and plan happy hour events.
 
 ## How to use this repository
 
