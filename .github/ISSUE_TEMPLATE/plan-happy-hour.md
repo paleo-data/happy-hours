@@ -1,7 +1,7 @@
 ---
 name: Plan a happy hour
 about: Use this issue template to plan for hosting a scheduled PDWG happy hour
-title: "[replace this text with the date and topic, formatted 'YYYY-MM_DD Topic']"
+title: "[replace this text with the date and topic, formatted 'YYYY-MM-DD Topic']"
 labels: PDWG, scheduled
 assignees: ''
 
