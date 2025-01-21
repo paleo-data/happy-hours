@@ -10,7 +10,7 @@ assignees: ''
 
 **Is this happy hour related to any [topic idea issues](https://github.com/paleo-data/happy-hours/labels/idea)?** If so, please link to issue(s) here:
 
-Please note that until the end of October 2025, we have funding for Alex Cano (NMNH) to assist with happy hour logistics. In the checklist below, tasks that Alex will do are noted. Other tasks are the responsibility of the PDWG member hosting this happy hour.
+Please note that until the end of October 2025, we have funding for Alex Lawrence (NMNH) to assist with happy hour logistics. In the checklist below, tasks that Alex will do are noted. Other tasks are the responsibility of the PDWG member hosting this happy hour.
 
 ### A month or more in advance
 - [ ] Determine topic (i.e. title of this issue)
@@ -23,7 +23,6 @@ Please note that until the end of October 2025, we have funding for Alex Cano (N
 - [ ] Prepare for the topic by creating presentation or activity materials, if necessary, and/or by coordinating with guest speakers
 
 ### The week of
-- [ ] _(Alex)_ Create a Zoom link for the Happy Hour meeting
 - [ ] Send out a reminder email to paleo-data@googlegroups.com including details about (at least) the Happy Hour date, time, topic, and Zoom link
     - Example email subject: "Thursday 5/17 at noon Eastern - Paleo Data ‘Happy Hour’”
     - Example email text: “Please join us for the next biweekly Paleo Data Happy Hour on Thursday, May 17th at 12pm Eastern (UTC-5). The Zoom link for this meeting will be: _[insert link]_. Our theme for informal discussion this week is a working session for identifiers. In December 2020, Holly Little led a Happy Hour overview of where and why we might want to be using unique identifiers in our collections data. If you have time, reviewing the recording, notes, and/or slides _[include links]_ from that may be useful preparation for this Happy Hour, in which we will be focusing on specific identifiers (e.g. Wikidata QIDs, WoRMS AphiaIDs, Macrostrat IDs, etc.) that work best for specific types of data (e.g. people, taxa, stratigraphic units, etc.)."
@@ -41,5 +40,6 @@ Please note that until the end of October 2025, we have funding for Alex Cano (N
 - [ ] _(Alex)_ Make the recording available by downloading an MP4 file from Zoom and uploading it to the appropriate folder of the [PDWG Google Drive](https://drive.google.com/drive/folders/1UYyaRMMnQbgE_2FSiTdb4nLV8BAjyBz5?usp=sharing), e.g. 2024 Paleo Happy Hour Notes Recordings, using the naming convention of _YYYYMMDD_paleo-happy-hour_recording_, e.g. “20240111_paleo-happy-hour_recording”
 - [ ] _(Alex)_ Update the topic on our [GitHub website here](https://github.com/paleo-data/paleo-data.github.io/blob/main/happy-hours.md) by adding a link to the recording and by moving the topic down into the relevant section, e.g. from “2024 – Upcoming” to “2024 – Past”
 - [ ] _(Alex)_ On the shared notes Google Doc, change the _Sharing_ setting to “Anyone on the internet with the link can view” to better protect the document from unintentional editing in the future
+- [ ] _(Alex)_ Update attendance record in the [PDWG Happy Hour Participant Tracking](https://docs.google.com/spreadsheets/d/1eEasKXODqM58ECuKfQG8tMr_-Y136OJI3wVyVqRlW-Y/edit?usp=sharing) sheet
 - [ ] Coordinate any followup from the Happy Hour as necessary, e.g. making progress on group action items, or thanking guest speakers
 - [ ] Close this issue
