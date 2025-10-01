@@ -10,14 +10,14 @@ assignees: ''
 
 **Is this happy hour related to any [topic idea issues](https://github.com/paleo-data/happy-hours/labels/idea)?** If so, please link to issue(s) here:
 
-Please note that until the end of October 2025, we have funding for Alex Lawrence (NMNH) to assist with happy hour logistics. In the checklist below, tasks that Alex will do are noted. Other tasks are the responsibility of the PDWG member hosting this happy hour.
-
 ### A month or more in advance
 - [ ] Determine topic (i.e. title of this issue)
-- [ ] _(Alex)_ Update topic on our [GitHub website here](https://github.com/paleo-data/paleo-data.github.io/blob/main/happy-hours.md)
-- [ ] _(Alex)_ Create a Google Doc for shared notes in the appropriate folder of the [PDWG Google Drive](https://drive.google.com/drive/folders/1UYyaRMMnQbgE_2FSiTdb4nLV8BAjyBz5?usp=sharing), e.g. 2024 Paleo Happy Hour Notes Recordings, using the naming convention of _YYYYMMDD_paleo-happy-hour_notes_, e.g. “20240111_paleo-happy-hour_notes”
-    - To create a new shared notes doc by copying one from a previous Happy Hour, go to _File > Make a copy_ from within the previous Google Doc, then rename the new document
+- [ ] Update topic name on [our website here](https://github.com/paleo-data/paleo-data.github.io/blob/main/_data/pdwg-happy-hours.yml)
+- [ ] Create a Google Doc for shared notes:
+    - Use the [Meeting Notes Template](https://docs.google.com/document/d/1Tp-HNHlWFtbrnKPZNc0igowUvZ2u0hmddiF0kWdOGHo/edit?usp=drive_link) to create a new doc by going to _File > Make a copy_, then renaming the new document using the naming convention of _YYYYMMDD_paleo-happy-hour_notes_, e.g. “20240701_paleo-happy-hour_notes”
     - Make sure that _Sharing_ is set to “Anyone on the internet with the link can edit”
+    - Organize the new doc in the appropriate folder of the [PDWG Google Drive](https://drive.google.com/drive/folders/1UYyaRMMnQbgE_2FSiTdb4nLV8BAjyBz5?usp=sharing), e.g. 2024 Paleo Happy Hour Notes Recordings
+- [ ] Update the topic on [our website here](https://github.com/paleo-data/paleo-data.github.io/blob/main/_data/pdwg-happy-hours.yml) by adding a link to the shared notes doc
 
 ### A couple weeks in advance
 - [ ] Prepare for the topic by creating presentation or activity materials, if necessary, and/or by coordinating with guest speakers
@@ -30,16 +30,16 @@ Please note that until the end of October 2025, we have funding for Alex Lawrenc
 
 ### The day of the scheduled Happy Hour
 - [ ] Launch Zoom at least 5 minutes prior to the scheduled meeting time so that you can confirm Zoom is working as expected
-- [ ] At the scheduled start time, welcome everyone and let them know the meeting will be recorded
-- [ ] _(Alex)_ Begin recording
-- [ ] Lead or otherwise facilitate the progress of the Happy Hour, including introducing speakers (if appropriate), sharing the link to the notes document, moderating conversation, and closing the meeting on time
-- [ ] _(Alex)_ Cross check Happy Hour attendance between the shared notes self-reported attendance and Zoom; update the shared notes as needed
+- [ ] At the scheduled start time, welcome everyone and let them know the meeting will be recorded and the recording will be made available for one year
+- [ ] Begin recording
+- [ ] Lead or otherwise facilitate the progress of the Happy Hour, including introducing speakers (if appropriate), sharing the link to the notes document, moderating conversation, and closing the meeting on time (typically at the :55 minute mark so that people have time to transition)
+- [ ] Cross check Happy Hour attendance between the shared notes self-reported attendance and Zoom; update the shared notes as needed
     - If necessary, after the meeting ends you can find the attendance report in your Zoom account online, go to _Reports > Usage_ then select the date of the Zoom meeting and look for a column called _Participants_
 
 ### After the scheduled Happy Hour
-- [ ] _(Alex)_ Make the recording available by downloading an MP4 file from Zoom and uploading it to the appropriate folder of the [PDWG Google Drive](https://drive.google.com/drive/folders/1UYyaRMMnQbgE_2FSiTdb4nLV8BAjyBz5?usp=sharing), e.g. 2024 Paleo Happy Hour Notes Recordings, using the naming convention of _YYYYMMDD_paleo-happy-hour_recording_, e.g. “20240111_paleo-happy-hour_recording”
-- [ ] _(Alex)_ Update the topic on our [GitHub website here](https://github.com/paleo-data/paleo-data.github.io/blob/main/happy-hours.md) by adding a link to the recording and by moving the topic down into the relevant section, e.g. from “2024 – Upcoming” to “2024 – Past”
-- [ ] _(Alex)_ On the shared notes Google Doc, change the _Sharing_ setting to “Anyone on the internet with the link can view” to better protect the document from unintentional editing in the future
-- [ ] _(Alex)_ Update attendance record in the [PDWG Happy Hour Participant Tracking](https://docs.google.com/spreadsheets/d/1eEasKXODqM58ECuKfQG8tMr_-Y136OJI3wVyVqRlW-Y/edit?usp=sharing) sheet
+- [ ] Make the recording available by downloading an MP4 file from Zoom and uploading it to the appropriate folder of the [PDWG Google Drive](https://drive.google.com/drive/folders/1UYyaRMMnQbgE_2FSiTdb4nLV8BAjyBz5?usp=sharing), e.g. 2024 Paleo Happy Hour Notes Recordings, using the naming convention of _YYYYMMDD_paleo-happy-hour_recording_, e.g. “20240111_paleo-happy-hour_recording”
+- [ ] Update the topic on [our website here](https://github.com/paleo-data/paleo-data.github.io/blob/main/_data/pdwg-happy-hours.yml) by adding a link to the recording
+- [ ] On the shared notes Google Doc, change the _Sharing_ setting to “Anyone on the internet with the link can view” to better protect the document from unintentional editing in the future
+- [ ] Update attendance record in the [PDWG Happy Hour Participant Tracking](https://docs.google.com/spreadsheets/d/1eEasKXODqM58ECuKfQG8tMr_-Y136OJI3wVyVqRlW-Y/edit?usp=sharing) sheet
 - [ ] Coordinate any followup from the Happy Hour as necessary, e.g. making progress on group action items, or thanking guest speakers
 - [ ] Close this issue
